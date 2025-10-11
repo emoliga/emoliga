@@ -1,8 +1,9 @@
 <div align="center">
 
-# Hi everyone, I'm Eva :) 🙌
+# Hi everyone, I'm Eva :)
 
-I'm an industrial design and product development engineering student at Universidad de Zaragoza (Spain). I'm currently looking forward to learn more about computer science and I know this platform and its community will be great for my learning 😎. 
+<p> I'm an industrial design and product development engineering student at Universidad de Zaragoza (Spain).</p>
+<p>nI'm currently looking forward to learn more about computer science and I know this platform and community will be a great help for my learning 😎. </p>
 
 </div>
 
