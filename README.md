@@ -6,13 +6,12 @@ I'm an industrial design and product development engineering student at Universi
 
 </div>
 
-<p></p>
 
 ## Connect with Me
 
 <div align="center">
 
-<a href="www.linkedin.com/in/eva-mg">
+<a href="www.linkedin.com/in/eva-mg" style="text-color: #E571A4">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" alt="LinkedIn" width="24" height="24" style="vertical-align: middle; margin-right: 8px;">
   <strong>My LinkedIn Profile</strong>
 </a>
@@ -24,9 +23,10 @@ I'm an industrial design and product development engineering student at Universi
 
 </div>
 
+
 ## Courses & Learning Journey
 
-Here's a snapshot of the courses I'm currently following and have completed. I'm committed to continuous learning in design, development, and tech!
+Here's a list of the courses I'm currently following and have completed. I'm committed to continuous learning in design, development, and tech!
 
 <table style="width:100%">
   <tr>
