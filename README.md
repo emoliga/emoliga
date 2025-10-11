@@ -12,7 +12,7 @@ I'm an industrial design and product development engineering student at Universi
 <div align="center">
 
 <a href="www.linkedin.com/in/eva-mg" style="color: #E571A4">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" alt="LinkedIn" width="24" height="24" style="vertical-align: middle; margin-right: 8px; color: #E571A4">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" alt="LinkedIn" width="24" height="24" style="vertical-align: middle; margin-right: 8px; color: White"
   <strong>My LinkedIn Profile</strong>
 </a>
 
