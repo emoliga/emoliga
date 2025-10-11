@@ -6,6 +6,8 @@ I'm an industrial design and product development engineering student at Universi
 
 </div>
 
+<p></p>
+
 ## Connect with Me
 
 <div align="center">
