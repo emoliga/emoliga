@@ -25,3 +25,14 @@ I'm an industrial design and product development engineering student at Universi
 ## Courses & Learning Journey
 
 Here's a snapshot of the courses I'm currently following and have completed. I'm committed to continuous learning in design, development, and tech!
+
+<table style="width:100%">
+  <tr>
+    <td>Course</td>
+    <td>Progress</td>
+  </tr>
+  <tr>
+    <td>CS50’s Introduction to Artificial Intelligence with Python</td>
+    <td>50%</td>
+  </tr>
+</table>
