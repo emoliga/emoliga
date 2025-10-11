@@ -4,7 +4,7 @@
 
 <p> I'm an industrial design and product development engineering student at Universidad de Zaragoza (Spain).</p>
 
-<p> I have developed some multidisciplinary projects in the bachelor's degree. However, I'm currently looking forward to learn more about computer science (artificial intelligence, machine learning, LLM and RAG models, computer vision,...) and I know this platform and community can be a great help for my journey and share my projects 🫶. </p>
+<p> I have developed some multidisciplinary projects in the bachelor's degree. However, I'm currently looking forward to learn more about computer science and I know this platform and community can be a great help for my journey and share my projects 🫶. </p>
 
 </div>
 
@@ -20,10 +20,6 @@ Here's a list of the courses I'm currently following and have completed.
   </tr>
   <tr>
     <td><img src="images/harvard-logo.jpg">CS50’s Introduction to Artificial Intelligence with Python</td>
-    <td>50%</td>
-  </tr>
-  <tr>
-    <td>CS50’s Introduction to Artificial Intelligence with Python</td>
     <td>50%</td>
   </tr>
 </table>
