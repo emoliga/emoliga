@@ -19,7 +19,7 @@ Here's a list of the courses I'm currently following and have completed.
     <td>Progress</td>
   </tr>
   <tr>
-    <td><img src="images/harvard-logo.jpg">CS50’s Introduction to Artificial Intelligence with Python</td>
+    <td>CS50’s Introduction to Artificial Intelligence with Python</td>
     <td>50%</td>
   </tr>
 </table>
