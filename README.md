@@ -3,7 +3,8 @@
 # Hi everyone, I'm Eva :)
 
 <p> I'm an industrial design and product development engineering student at Universidad de Zaragoza (Spain).</p>
-<p>nI'm currently looking forward to learn more about computer science and I know this platform and community will be a great help for my learning 😎. </p>
+
+<p> I'm currently looking forward to learn more about computer science and I know this platform and community will be a great help for my learning 😎. </p>
 
 </div>
 
@@ -17,10 +18,11 @@
   <strong>My LinkedIn Profile</strong>
 </a>
 
-<a href="https://www.behance.net/evamolinerg">
+<button><a href="https://www.behance.net/evamolinerg">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/behance.svg" alt="Behance" width="24" height="24" style="vertical-align: middle; margin-right: 8px;">
   <strong>My Behance Portfolio</strong>
 </a>
+</button>
 
 </div>
 
