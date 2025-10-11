@@ -1,16 +1,27 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**emoliga/emoliga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi everyone, I'm Eva :) 🙌
 
-Here are some ideas to get you started:
+I'm an industrial design and product development engineering student at Universidad de Zaragoza (Spain). I'm currently looking forward to learn more about computer science and I know this platform and its community will be great for my learning 😎. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+## Connect with Me
+
+<div align="center">
+
+<a href="www.linkedin.com/in/eva-mg">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" alt="LinkedIn" width="24" height="24" style="vertical-align: middle; margin-right: 8px;">
+  <strong>My LinkedIn Profile</strong>
+</a>
+
+<a href="https://www.behance.net/evamolinerg">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/behance.svg" alt="Behance" width="24" height="24" style="vertical-align: middle; margin-right: 8px;">
+  <strong>My Behance Portfolio</strong>
+</a>
+
+</div>
+
+## Courses & Learning Journey
+
+Here's a snapshot of the courses I'm currently following and have completed. I'm committed to continuous learning in design, development, and tech!
