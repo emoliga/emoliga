@@ -13,7 +13,7 @@
 
 Here's a list of the courses I'm currently following and have completed. 
 
-<table style="width:100%">
+<table>
   <tr>
     <td>Course</td>
     <td>Progress</td>
@@ -21,6 +21,10 @@ Here's a list of the courses I'm currently following and have completed.
   <tr>
     <td>CS50’s Introduction to Artificial Intelligence with Python</td>
     <td>50%</td>
+  </tr>
+  <tr>
+    <td>CS50’s Introduction to Computer Science</td>
+    <td>10%</td>
   </tr>
 </table>
 
