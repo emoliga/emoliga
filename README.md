@@ -30,10 +30,3 @@ Here's a list of the courses I'm currently following and have completed.
 
 If you know other course that might be interesting as well, please feel free to send it to me by LinkedIn or email <3.
 </a>
-
-<a href="https://www.behance.net/evamolinerg">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/behance.svg" alt="Behance" width="24" height="24" style="vertical-align: middle; margin-right: 8px;">
-  <strong>My Behance Portfolio</strong>
-</a>
-
-</div>
