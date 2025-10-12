@@ -29,15 +29,6 @@ Here's a list of the courses I'm currently following and have completed.
 </table>
 
 If you know other course that might be interesting as well, please feel free to send it to me by LinkedIn or email <3.
-
-
-## More about me and contact
-
-<div align="center">
-
-<a href="www.linkedin.com/in/eva-mg" style="color: #E571A4">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" alt="LinkedIn" width="24" height="24" style="vertical-align: middle; margin-right: 8px; color: White"
-  <strong>My LinkedIn Profile</strong>
 </a>
 
 <a href="https://www.behance.net/evamolinerg">
