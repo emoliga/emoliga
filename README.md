@@ -8,9 +8,7 @@
 
 &nbsp;
 <div>
-  <div align="center">
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emoliga&layout=compact&theme=dark)
-  </div>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5420a1328bb027c9aca93a94e9a493067dfcb0df431e3f286a46be1f63f76ab5/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6a646732383936266c61796f75743d636f6d70616374267468656d653d6461726b"><img height="175" alt="Most Used Languages" src="https://camo.githubusercontent.com/5420a1328bb027c9aca93a94e9a493067dfcb0df431e3f286a46be1f63f76ab5/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6a646732383936266c61796f75743d636f6d70616374267468656d653d6461726b" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=emoliga&amp;layout=compact&amp;theme=dark" style="max-width: 100%; height: auto; max-height: 175px;"></a>
   
   <p dir="auto">
     <a href="https://www.linkedin.com/in/eva-mg" rel="nofollow"><img src="https://camo.githubusercontent.com/bd4111e83b2f1cc0d8bd771280353e4eb7e0e6408de2eb749aee4a740343cd7c/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6c696e6b6564696e" alt="LinkedIn" data-canonical-src="https://skillicons.dev/icons?i=linkedin" style="max-width: 100%;"></a>
