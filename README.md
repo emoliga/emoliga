@@ -19,11 +19,8 @@
     &nbsp;&nbsp;
 </p>
 
-&nbsp;&nbsp;
-
 </div>
 
-&nbsp;
 
 
 ## Courses & Learning Journey
@@ -32,8 +29,8 @@ Here's a list of the courses I'm currently following and have completed.
 
 <table>
   <tr>
-    <td>Course</td>
-    <td>Progress</td>
+    <td><strong>Course</strong></td>
+    <td><strong>Progress</strong></td>
   </tr>
   <tr>
     <td>CS50’s Introduction to Artificial Intelligence with Python</td>
