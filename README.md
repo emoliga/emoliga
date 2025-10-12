@@ -6,17 +6,20 @@
 
 &nbsp;
 
-<p dir="auto">
-    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5420a1328bb027c9aca93a94e9a493067dfcb0df431e3f286a46be1f63f76ab5/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6a646732383936266c61796f75743d636f6d70616374267468656d653d6461726b"><img height="175" alt="Most Used Languages" src="https://camo.githubusercontent.com/5420a1328bb027c9aca93a94e9a493067dfcb0df431e3f286a46be1f63f76ab5/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6a646732383936266c61796f75743d636f6d70616374267468656d653d6461726b" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdg2896&amp;layout=compact&amp;theme=dark" style="max-width: 100%; height: auto; max-height: 175px;"></a>
-  &nbsp;&nbsp;
-    <p>
-      <a href="https://www.linkedin.com/in/eva-mg" rel="nofollow" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="32" width="32"/></a>
-      &nbsp;&nbsp;
-      <a href="mailto:molinereva00@gmail.com?subject=Hello%20From%20GitHub" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="32" width="32"/></a>
-      &nbsp;&nbsp;
-    </p>
-  &nbsp;&nbsp;
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=emoliga&layout=compact&theme=dark" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emoliga&layout=compact&theme=dark" alt="Top Languages Graph" height="175" style="max-width: 100%; height: auto; max-height: 175px;"/>
+</a>
+
+&nbsp;
+
+<p>
+    <a href="https://www.linkedin.com/in/eva-mg" rel="nofollow" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" width="40"/></a>
+    &nbsp;&nbsp;
+    <a href="mailto:molinereva00@gmail.com?subject=Hello%20From%20GitHub" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40" width="40"/></a>
+    &nbsp;&nbsp;
 </p>
+
+&nbsp;&nbsp;
 
 </div>
 
