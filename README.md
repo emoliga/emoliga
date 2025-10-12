@@ -2,9 +2,9 @@
 
 # Hi everyone, I'm Eva :)
 
-<p> I'm an industrial design and product development engineering student at Universidad de Zaragoza (Spain).</p>
+<p>I'm an industrial design and product development engineering student at Universidad de Zaragoza (Spain). However, I'm currently looking forward to learn more about computer science in my spare time and I know this platform and community can be a great help for my journey and for sharing my projects 🫶. In fact, I'm starting an AI related project with machine learning and developing an agent and I might need support.</p>
 
-<p> I have developed some multidisciplinary projects in the bachelor's degree. However, I'm currently looking forward to learn more about computer science and I know this platform and community can be a great help for my journey and share my projects 🫶. </p>
+<p> </p>
 
 </div>
 
