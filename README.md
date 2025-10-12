@@ -2,7 +2,9 @@
 
 # Hi everyone, I'm Eva :)
 
-<p>I'm an industrial design and product development engineering student at Universidad de Zaragoza (Spain), my technicall skills and experience variate in different filds. However, I'm currently looking forward to expand my knowledge about computer science in my spare time and I know this platform and community can be a great help for my journey and for sharing my projects 🫶. In fact, I'm will start soon an internship where I'll work with machine learning and developing an AI agent, which definetly is a great incentive and opportunity.</p>
+<p>I'm an industrial design and product development engineering student at Universidad de Zaragoza (Spain), my technicall skills and experience variate in different filds.
+  
+  However, I'm currently looking forward to expand my knowledge about computer science in my spare time and I know this platform and community can be a great help for my journey and for sharing my projects 🫶. In fact, I'm will start soon an internship where I'll work with machine learning and developing an AI agent, which definetly is a great incentive and opportunity.</p>
 
 </div>
 
