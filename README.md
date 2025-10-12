@@ -2,11 +2,22 @@
 
 # Hi everyone, I'm Eva :)
 
-<p>I'm an industrial design and product development engineering student at Universidad de Zaragoza (Spain). However, I'm currently looking forward to learn more about computer science in my spare time and I know this platform and community can be a great help for my journey and for sharing my projects 🫶. In fact, I'm starting an AI related project with machine learning and developing an agent so I might need support.</p>
+<p>I'm an industrial design and product development engineering student at Universidad de Zaragoza (Spain) and my technicall skills and experience variate in different filds: electronics, UI/UX design, 3D modelling and rendering,.
+  
+However, I'm currently looking forward to expand my knowledge about computer science in my spare time and I know this platform and community can be a great help for my journey and for sharing my projects 🫶. In fact, I'm will start soon an internship in which I'll work with machine learning and developing an AI agent, that's definetly a great incentive and opportunity.</p>
 
 <p> </p>
 
 </div>
+
+&nbsp;
+<!-- <div>
+  <a href="www.linkedin.com/in/eva-mg" rel="nofollow"><img src="https://camo.githubusercontent.com/bd4111e83b2f1cc0d8bd771280353e4eb7e0e6408de2eb749aee4a740343cd7c/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6c696e6b6564696e" alt="LinkedIn" data-canonical-src="https://skillicons.dev/icons?i=linkedin" style="max-width: 100%;"></a>
+</div> -->
+
+<a target="_blank" rel="noopener noreferrer nofollow" href="[[https://camo.githubusercontent.com/5420a1328bb027c9aca93a94e9a493067dfcb0df431e3f286a46be1f63f76ab5/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6a646732383936266c61796f75743d636f6d70616374267468656d653d6461726b](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)"><img height="175" alt="Most Used Languages" src="https://camo.githubusercontent.com/5420a1328bb027c9aca93a94e9a493067dfcb0df431e3f286a46be1f63f76ab5/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6a646732383936266c61796f75743d636f6d70616374267468656d653d6461726b" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdg2896&amp;layout=compact&amp;theme=dark" style="max-width: 100%; height: auto; max-height: 175px;"></a>
+
+&nbsp;
 
 
 ## Courses & Learning Journey
@@ -28,5 +39,6 @@ Here's a list of the courses I'm currently following and have completed.
   </tr>
 </table>
 
-If you know other course that might be interesting as well, please feel free to send it to me by LinkedIn or email <3.
+If you know other course or tool that might be interesting to me as well, please feel free to send it to me by LinkedIn or email <3.
 </a>
+&nbsp;
