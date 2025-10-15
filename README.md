@@ -6,9 +6,7 @@
 
 &nbsp;
 
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=emoliga&layout=compact&theme=dark" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emoliga&layout=compact&theme=dark" alt="Top Languages Graph" height="175" style="max-width: 100%; height: auto; max-height: 175px;"/>
-</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=emoliga&layout=compact&theme=dark" target="_blank"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emoliga&layout=compact&theme=dark" alt="Top Languages Graph" height="175" style="max-width: 100%; height: auto; max-height: 175px;"/> </a>
 
 &nbsp;
 
@@ -25,7 +23,7 @@
 
 ## Courses & Learning Journey
 
-Here's a list of the courses I'm currently following and have completed. 
+Here's a list of the courses I'm currently following or have already completed. 
 
 <table>
   <tr>
