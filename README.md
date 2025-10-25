@@ -36,7 +36,7 @@ Here's a list of the courses I'm currently following or have already completed.
   </tr>
   <tr>
     <td>CS50’s Introduction to Artificial Intelligence with Python</td>
-    <td>50%</td>
+    <td>80%</td>
   </tr>
   <tr>
     <td>CS50’s Introduction to Computer Science</td>
