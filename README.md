@@ -6,6 +6,9 @@
 
 &nbsp;
 
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=emoliga&layout=compact&theme=dark" target="_blank"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emoliga&layout=compact&theme=dark" alt="Top Languages Graph" height="175" style="max-width: 100%; height: auto; max-height: 175px;"/> </a>
+
+&nbsp; 
 
 <p>
     <a href="https://www.linkedin.com/in/eva-mg" rel="nofollow" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" width="40"/></a>
