@@ -36,7 +36,7 @@ Here's a list of the courses I'm currently following or have already completed.
   </tr>
   <tr>
     <td>CS50’s Introduction to Artificial Intelligence with Python</td>
-    <td>80%</td>
+    <td>100%</td>
   </tr>
   <tr>
     <td>CS50’s Introduction to Databases with SQL</td>
