@@ -39,7 +39,7 @@ Here's a list of the courses I'm currently following or have already completed.
     <td>80%</td>
   </tr>
   <tr>
-    <td>CS50’s Introduction to Computer Science</td>
+    <td>CS50’s Introduction to Databases with SQL</td>
     <td>10%</td>
   </tr>
 </table>
