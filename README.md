@@ -40,11 +40,11 @@ Here's a list of the courses I'm currently following or have already completed.
   </tr>
   <tr>
     <td>CS50’s Introduction to Databases with SQL</td>
-    <td>20%</td>
+    <td>30%</td>
   </tr>
   <tr>
     <td>MIT Introduction to Deep Learning</td>
-    <td>10%</TD>
+    <td>20%</TD>
   </tr>
 </table>
 
