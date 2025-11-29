@@ -4,11 +4,11 @@
 
 <p>I'm an industrial design and product development engineering student at Universidad de Zaragoza (Spain), my technicall skills and experience variate in different filds. However, I'm currently looking forward to expand my knowledge about computer science in my spare time. In fact, I'm will start soon an internship where I'll work with machine learning and developing an AI agent, which definetly is a great incentive and opportunity.</p>
 
-&nbsp;
+<!-- &nbsp;
 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=emoliga&layout=compact&theme=dark" target="_blank"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emoliga&layout=compact&theme=dark" alt="Top Languages Graph" height="175" style="max-width: 100%; height: auto; max-height: 175px;"/> </a>
 
-&nbsp; 
+&nbsp; -->
 
 <p>
     <a href="https://www.linkedin.com/in/eva-mg" rel="nofollow" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" width="40"/></a>
