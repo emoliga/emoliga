@@ -65,4 +65,4 @@ Here's a list of the courses I'm currently following or have already completed.
 
 </div>
 
-;&nbsp;
+&nbsp;
