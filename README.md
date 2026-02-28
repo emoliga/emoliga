@@ -6,7 +6,7 @@
 
 &nbsp;
 
-<p>These are the programming lenguajes I have worked with:</p>
+<p>These are the programming lenguajes I manage:</p>
 <p>
   <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://camo.githubusercontent.com/31d8ca165c01da91a32d2c549408f4d148b1af07c648796744c039898938400d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3134333534432e7376673f6c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Python-14354C.svg?logo=python&amp;logoColor=white" style="max-width: 100%;"></a>
   <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acpp"><img alt="C++" src="https://camo.githubusercontent.com/55c697dd04da5c2c9920da8113fc8015213f1f363f058e9ae222d535194723d8/68747470733a2f2f637573746f6d2d69636f6e2d6261646765732e64656d6f6c61622e636f6d2f62616467652f432b2b2d3943303333412e7376673f6c6f676f3d63707032266c6f676f436f6c6f723d7768697465" data-canonical-src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&amp;logoColor=white" style="max-width: 100%;"></a>
