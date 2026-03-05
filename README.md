@@ -37,15 +37,19 @@ Here's a list of the courses I'm currently following or have already completed.
     <td><strong>Progress</strong></td>
   </tr>
     <tr>
-    <td>Automation: n8n courses</td>
+    <td>n8n courses (levels 1 and 2)</td>
     <td>100%</td>
   </tr>
   <tr>
-    <td>CS50’s Introduction to Artificial Intelligence with Python</td>
+    <td>CS50’s Introduction to Artificial Intelligence with Python (Harvard, edX)</td>
     <td>100%</td>
   </tr>
   <tr>
-    <td>CS50’s Introduction to Databases with SQL</td>
+    <td>CS50’s Introduction to Databases with SQL (Harvard, edX)</td>
+    <td>100%</td>
+  </tr>
+  <tr>
+    <td>Advanced Python with 10 OOP Projects (Udemy Academy)</td>
     <td>100%</td>
   </tr>
 </table>
