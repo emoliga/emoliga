@@ -54,13 +54,12 @@ Here's a list of the courses I'm currently following or have already completed.
   </tr>
 </table>
 
+&nbsp;
+
 <p>If you know other course or tool that might be interesting to me as well, please feel free to send it to me by LinkedIn or email <3.</p>
 </a>
 
-&nbsp;
-
 <div align="center">
-  <p>Contact me:  </p>
   <a href="https://www.linkedin.com/in/eva-mg" rel="nofollow" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" width="40"/></a>
     &nbsp;&nbsp;
   <a href="mailto:molinereva00@gmail.com?subject=Hello%20From%20GitHub" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40" width="40"/></a>
