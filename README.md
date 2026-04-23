@@ -4,6 +4,7 @@
 
 **Building production AI workflows with n8n · LLMs · Supabase**
 
+<div style="text-decoration: none">
 
 [
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
