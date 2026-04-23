@@ -9,8 +9,9 @@
   <a href="mailto:molinereva00@gmail.com?subject=Hello%20From%20GitHub" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40" width="40"/></a>
 </div>
 
----
+
 &nbsp;
+
 
 ## What I do
 
@@ -20,8 +21,8 @@ building LLM-powered workflows, RAG pipelines, and internal tools
 that replace manual processes.
 
 
----
 &nbsp;
+
 
 ## Stack
 
@@ -34,8 +35,9 @@ that replace manual processes.
 **Currently learning**
 `FastAPI` `Text2SQL agents` `LangGraph`
 
----
+
 &nbsp;
+
 
 ## Projects
 
@@ -46,10 +48,13 @@ that replace manual processes.
 
 *n8n templates → [my profile on n8n.io](#)*
 
----
+
 &nbsp;
+
 
 ## Background
 
 Industrial Design Engineering @ Universidad de Zaragoza  
 Focused on the intersection of **industrial systems + AI automation**
+
+&nbsp;
