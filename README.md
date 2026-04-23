@@ -4,8 +4,6 @@
 
 **Building production AI workflows with n8n · LLMs · Supabase**
 
-[
-
 <a href="https://www.linkedin.com/in/eva-mg" rel="nofollow" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" width="40"/></a>
     &nbsp;&nbsp;
   <a href="mailto:molinereva00@gmail.com?subject=Hello%20From%20GitHub" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40" width="40"/></a>
