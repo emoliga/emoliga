@@ -26,10 +26,10 @@ My TFG (graduating Jul 2025): a **KPI portal with natural language queries**
 ## Stack
 
 **Automation & AI**
-`n8n` `LangChain` `OpenAI API` `Claude API` `RAG / pgvector`
+`n8n` `OpenAI API` `Claude` `ElevenLabs API`
 
 **Backend & Data**
-`Supabase` `PostgreSQL` `REST APIs` `JavaScript` `Python`
+`Supabase` `REST APIs` `JavaScript` `Python`
 
 **Currently learning**
 `FastAPI` `Text2SQL agents` `LangGraph`
