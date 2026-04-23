@@ -10,6 +10,7 @@
 </div>
 
 ---
+&nbsp
 
 ## What I do
 
@@ -20,6 +21,7 @@ that replace manual processes.
 
 
 ---
+&nbsp
 
 ## Stack
 
@@ -33,6 +35,7 @@ that replace manual processes.
 `FastAPI` `Text2SQL agents` `LangGraph`
 
 ---
+&nbsp
 
 ## Projects
 
@@ -44,6 +47,7 @@ that replace manual processes.
 *n8n templates → [my profile on n8n.io](#)*
 
 ---
+&nbsp
 
 ## Background
 
