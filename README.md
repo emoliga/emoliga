@@ -5,7 +5,7 @@
 **Building production AI workflows with n8n · LLMs · Supabase**
 
 <div align="center">
-<table><tr>
+<table border="0" cellspacing="0" cellpadding="5"><tr>
 <td><a href="https://www.linkedin.com/in/eva-mg" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" width="40"/></a></td>
 <td><a href="mailto:molinereva00@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="40" width="40"/></a></td>
 </tr></table>
