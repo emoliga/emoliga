@@ -50,8 +50,8 @@ that replace manual processes.
 
 | Project | What it does | Stack |
 |---|---|---|
-| [KPI Portal (TFG)](#) | SAP KPI visualization portal with automated monthly/annual reports that includes an experimental NL query tool | n8n · Supabase · Next.js · OpenAI |
-| [AI Generated Podcast](#) | Auto-generates and distributes daily automotive news episodes to employees via Telegram | n8n · Supabase · ElevenLabs API · OpenAI API · Telegram API | 
+| KPI Portal (TFG) | SAP KPI visualization portal with automated monthly/annual reports that includes an experimental NL query tool | n8n · Supabase · Next.js · OpenAI |
+| AI Generated Podcast | Auto-generates and distributes daily automotive news episodes to employees via Telegram | n8n · Supabase · ElevenLabs API · OpenAI API · Telegram API | 
 
 
 &nbsp;
