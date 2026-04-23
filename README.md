@@ -18,8 +18,6 @@ Currently at **CEFA (Zaragoza)** leading Digital Transformation projects:
 building LLM-powered workflows, RAG pipelines, and internal tools
 that replace manual processes.
 
-My TFG (graduating Jul 2025): a **KPI portal with natural language queries**
-— Spanish → SQL over SAP data, via n8n + Supabase + Next.js + OpenAI.
 
 ---
 
