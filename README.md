@@ -44,7 +44,9 @@ My TFG (graduating Jul 2025): a **KPI portal with natural language queries**
 | [Project 2](#) | ... | ... |
 | [Project 3](#) | ... | ... |
 
+<¡--
 *n8n templates → [my profile on n8n.io](#)*
+-->
 
 ---
 
