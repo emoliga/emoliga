@@ -8,9 +8,9 @@
 
 [
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
-](https://linkedin.com/in/eva-mg) [
+](https://linkedin.com/in/eva-mg) &nbsp; [
 ![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
-](mailto:molinereva00@gmail.com) [
+](mailto:molinereva00@gmail.com) &nbsp; [
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ](https://community.n8n.io/u/tu-usuario)
 
