@@ -4,18 +4,6 @@
 
 **Building production AI workflows with n8n · LLMs · Supabase**
 
-<div align="center">
-
-# Eva Moliner · AI Automation Engineer
-
-**Building production AI workflows with n8n · LLMs · Supabase**
-
-
-<div align="center">
-
-# Eva Moliner · AI Automation Engineer
-
-**Building production AI workflows with n8n · LLMs · Supabase**
 
 [
 
