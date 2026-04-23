@@ -40,13 +40,10 @@ My TFG (graduating Jul 2025): a **KPI portal with natural language queries**
 
 | Project | What it does | Stack |
 |---|---|---|
-| [KPI Portal (TFG)](#) | NL queries over SAP KPIs | n8n · Supabase · Next.js · Claude |
-| [Project 2](#) | ... | ... |
-| [Project 3](#) | ... | ... |
+| [KPI Portal (TFG)](#) | NL queries over SAP KPIs | n8n · Supabase · Next.js · OpenAI |
+| [AI Generated Podcast](#) | Automation of AI generated episodes with news about automotive industry for CEFA's employees and distribution of those via Telegram | n8n · Supabase · ElevenLabs API · OpenAI API · Telegram API | 
 
-<¡--
 *n8n templates → [my profile on n8n.io](#)*
--->
 
 ---
 
