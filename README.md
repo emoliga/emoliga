@@ -4,16 +4,23 @@
 
 **Building production AI workflows with n8n · LLMs · Supabase**
 
+<div align="center">
+
+# Eva Moliner · AI Automation Engineer
+
+**Building production AI workflows with n8n · LLMs · Supabase**
+
 [
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
 
-](https://linkedin.com/in/eva-mg)
-[
+](https://linkedin.com/in/eva-mg) [
 
 ![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
 
 ](mailto:molinereva00@gmail.com)
+
+</div>
 
 </div>
 
