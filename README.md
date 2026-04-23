@@ -19,7 +19,7 @@ building LLM-powered workflows, RAG pipelines, and internal tools
 that replace manual processes.
 
 My TFG (graduating Jul 2025): a **KPI portal with natural language queries**
-— Spanish → SQL over SAP data, via n8n + Supabase + Next.js + Claude.
+— Spanish → SQL over SAP data, via n8n + Supabase + Next.js + OpenAI.
 
 ---
 
