@@ -53,8 +53,6 @@ that replace manual processes.
 | [KPI Portal (TFG)](#) | SAP KPI visualization portal with automated monthly/annual reports that includes an experimental NL query tool | n8n · Supabase · Next.js · OpenAI |
 | [AI Generated Podcast](#) | Auto-generates and distributes daily automotive news episodes to employees via Telegram | n8n · Supabase · ElevenLabs API · OpenAI API · Telegram API | 
 
-*n8n templates → [my profile on n8n.io](#)*
-
 
 &nbsp;
 
